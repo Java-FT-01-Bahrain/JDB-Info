@@ -44,9 +44,9 @@ ____
   <img src="https://i.imgur.com/dH5Pznf.png" alt="Maryam" width="200px" >
   <h3>Maryam Din</h3>
   <h4>Instructor Associate</h4>
-  <p>Hello! My name is Maryam Din, and I’ll be joining you as one of your Instructor Associates for this part-time Java Developer Immersive.</p>
-  <p>I actually started out just like many of you — as a student in the full-time Java bootcamp — so I know exactly how challenging (and rewarding!) this experience can be. I’m passionate about helping others grow their confidence in coding, breaking down complex problems, and celebrating those “I finally got it!” moments together.</p>
-  <p>Over the next six months, I’ll be here to support you in any way I can — whether that’s reviewing concepts, debugging tricky code, or just chatting about your progress (or your favorite late-night coding snacks 😄). I’m really looking forward to seeing you all grow into confident developers!</p>
+  <p>Hello! My name is Maryam Din, and I’ll be joining you as one of your Instructor Associates for this full-time Java Developer Immersive Course.</p>
+  <p>I actually started out just like many of you — as a student in the first ever full-time Java bootcamp — so I know exactly how challenging (and rewarding!) this experience can be. I’m passionate about helping others grow their confidence in coding, breaking down complex problems, and celebrating those “I finally got it!” moments together.</p>
+  <p>Over the next three months, I’ll be here to support you in any way I can — whether that’s reviewing concepts, debugging tricky code, or just chatting about your progress (or your favorite late-night coding snacks 😄). I’m really looking forward to seeing you all grow into confident developers!</p>
   <span><a href="https://www.linkedin.com/in/bymrmak/" target="_blank">LinkedIn</a></span>
   <br>
   
