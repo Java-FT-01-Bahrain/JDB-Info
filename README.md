@@ -52,7 +52,7 @@ ____
   
 </div>
 
-</p></details></li>
+
 
 ____
 
@@ -63,8 +63,7 @@ ____
   <h4>Instructional Associate</h4>
   <p> ...  </p>
 </div>
-
-____
+</p></details></li>
 
 <li><details><summary><strong>Student Success</strong></summary><p>
 
