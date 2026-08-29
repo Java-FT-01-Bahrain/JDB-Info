@@ -30,23 +30,12 @@ ____
   <img src="https://camo.githubusercontent.com/9f1a0594d3d7b58d67a932ef6b6aed949270bd53069be2f6cca9ad00d36200cf/68747470733a2f2f63612e736c61636b2d656467652e636f6d2f5430334a424358385745372d5530343850534a3831465a2d6333666666363130303433652d353132" alt="Saad" width="200px" >
   <h3>Saad Iqbal</h3>
   <h4>Senior Instructor Lead</h4>
-  <p>Hello! My name is Saad Iqbal, and I'll be serving as one of the Instructor Leads throughout this course. </p>
+  <p>Hello! My name is Saad Iqbal, and I'll be serving as the Instructor Leads throughout this course. </p>
   <p> As a software engineer with 15 years of industry experience, I have a deep passion for training people and solving complex problems.</p>
-  <p>I've been with General Assembly for over six years, and I'm currently in Bahrain, where I've been for the last three years. My expertise spans across programming languages like Java, .NET, Python, and the MERN stack. I also enjoy problem-solving and working with complex logical issues. I'm excited to be here and look forward to working with you!</p>
+  <p>I've been with General Assembly for over 7 years, and I'm currently in Bahrain, where I've been for the last four years. My expertise spans across programming languages like Java, .NET, Python, and the MERN stack. I also enjoy problem-solving and working with complex logical issues. I'm excited to be here and look forward to working with you!</p>
   <span><a href="https://github.com/saadkhan29" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/saad-iqbal-6623a262/" target="_blank">LinkedIn</a></span>
   <br>
 
-</div>
-
-____
-
-<div align="center">
-  <img src="https://i.imgur.com/dH5Pznf.png" alt="Zahraa" width="200px" >
-  <h3>Zahraa Ali</h3>
-  <h4>Instructional Associate</h4>
-  <p>Hello! My name is Zahraa Ali, and I'll be serving as one of the Instructor Associates for this course.</p>    
-  <p>I studied Java in a full-time bootcamp and currently work as a backend developer. I have a strong passion for solving problems,             helping others debug, and turning those “Why isn’t this working?!” moments into “Ohhh, now it makes sense!” ones.</p>
-  <p>I’m really excited to support you all on this journey and hope you have a fantastic learning experience throughout the course.         Please feel free to reach out anytime — whether it’s for questions, debugging help, or just a friendly chat about code (or karak!). ☕   </p>
 </div>
 
 ____
@@ -67,12 +56,22 @@ ____
 
 ____
 
+
+<div align="center">
+  <img src="https://i.imgur.com/dH5Pznf.png" alt="Zainab" width="200px" >
+  <h3>Zainab</h3>
+  <h4>Instructional Associate</h4>
+  <p> ...  </p>
+</div>
+
+____
+
 <li><details><summary><strong>Student Success</strong></summary><p>
 
 <p>This team's job is to ensure your success <i>during</i> the course. Any scheduling, holiday, or performance questions can be directed to them.</p>
 
 <div align="center">
-  <img src="" alt="Name" width="200px" >
+  <img src="" alt="Reem" width="200px" >
   <h3>Reem</h3>
   <h4>Student Success Advocate</h4>
     <!-- <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
@@ -228,26 +227,22 @@ ____
       <td>
         <a href="/Lessons/installfest">Installfest</a>
         <br><hr>
-      </td>
-      <td>
         <a href="/Lessons/git-intro/">Git and GitHub</a>
         <br><hr>
         <a href="/Lessons//agile-user-stories-lesson/">Agile and User Stories</a>
+        <br><hr>
+                <a href="/Lessons/my-first-java-lesson/">My First Java Lesson</a>
         <br><hr>
         <a href="/Lessons/writing-user-stories/">Writing User Stories - Homework (Deliverable)</a>
         <br><hr>
       </td>
       <td>
-        <a href="/Lessons/my-first-java-lesson/">My First Java Lesson</a>
-        <br><hr>
         <a href="/Lessons/data-types-and-variables-lesson/">Datatypes And Variables</a>
         <br><hr>
         <a href="/Lessons/control-flow-and-loops-lesson/">Control Flow and Loops</a>
         <br><hr>
         <a href="/Lessons/control-flow-and-loops-lesson/lab.md">Control Flow and Loops - Lab</a>
         <br><hr>
-      </td>
-      <td>
         <a href="/Lessons/methods-and-scope-lesson/">Methods And Scope</a>
         <br><hr>
         <a href="/Lessons/methods-and-scope-lesson/lab.md">Methods And Scope - Lab</a>
@@ -255,24 +250,6 @@ ____
         <a href="/Homeworks/methods-and-scope-lesson/README.md">Methods And Scope - Homework (Deliverable)</a>
         <br><hr>
       </td>
-    </tr>
-  </table>
-
-  </p></details></li>
-
-  ___
-
-
-  <li><details><summary><strong>Week 2</strong></summary><p>
-
- <table>
-    <tr>
-      <th>Sunday</th>
-      <th>Monday</th>
-      <th>Tuesday</th>
-      <th>Wednesday</th>
-    </tr>
-    <tr>
       <td>
         <a href="/Lessons/arrays-arraylists-lesson/">Arrays and ArrayLists</a>
         <br><hr>
@@ -296,19 +273,9 @@ ____
       <td>
         <a href="/Lessons/subclasses/">Inheritance (Subclasses)</a>
         <br><hr>
-         <a href="/Lessons/abstract-classes-and-interfaces">Abstract Classes And Interfaces</a>
+        <a href="/Lessons/subclasses/">Inheritance (Lab)</a>
         <br><hr>
         <a href="/Homeworks/shapes-lab/">Inheritance Homework (Deliverable)</a>
-        <br><hr>
-        <a href=""></a>
-        <br><hr>
-      </td>
-      <td>
-      <a href="/Labs/OOPs/">Hands-On Coding Labs</a>
-        <br><hr>
-      <a href="/Homeworks/inheritance-and-abstraction-lab-hw/">Abstraction Homework (Deliverable)</a>
-        <br><hr>
-        <a href="">Complete Pending Deliverables</a>
         <br><hr>
       </td>
     </tr>
@@ -318,20 +285,29 @@ ____
   ___
 
 
-  <li><details><summary><strong>Week 3</strong></summary><p>
+  <li><details><summary><strong>Week 2</strong></summary><p>
  <table>
     <tr>
       <th>Sunday</th>
       <th>Monday</th>
       <th>Tuesday</th>
       <th>Wednesday</th>
+      <th>Thursday</th>
     </tr>
     <tr>
       <td>
-        <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams</a>
+      <a href="/Lessons/abstract-classes-and-interfaces">Abstract Classes And Interfaces</a>
+        <br><hr>
+        <a href="/Labs/OOPs/">Hands-On Coding Labs</a>
+        <br><hr>
+      <a href="/Homeworks/inheritance-and-abstraction-lab-hw/">Abstraction Homework (Deliverable)</a>
+        <br><hr>
+        <a href="">Complete Pending Deliverables</a>
         <br><hr>
       </td>
       <td>
+        <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams</a>
+        <br><hr>
         <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams</a>
         <br><hr>
         <a href="/Homeworks/lambdas-and-streams-lab-hw">Lambdas And Streams Homework (Deliverable)</a>
@@ -342,31 +318,6 @@ ____
         <br><hr>
       <a href="/Lessons/java-tdd/">JUnit and Test Driven Development (TDD)</a>
         <br><hr>
-      </td>
-      <td>
-        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
-        <br><hr>
-      </td>
-    </tr>
-  </table>
-</p></details>
-
-___
-
-  <li><details><summary><strong>Week 4</strong></summary><p>
- <table>
-    <tr>
-      <th>Sunday</th>
-      <th>Monday</th>
-      <th>Tuesday</th>
-      <th>Wednesday</th>
-    </tr>
-    <tr>
-      <td>
-        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
-        <br><hr>
-      </td>
-      <td>
         <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
         <br><hr>
       </td>
@@ -384,29 +335,34 @@ ___
 
 ____
 
-  <li><details><summary><strong>Week 5</strong></summary><p>
+  <li><details><summary><strong>Week 3</strong></summary><p>
   <table>
     <tr>
       <th>Sunday</th>
       <th>Monday</th>
       <th>Tuesday</th>
       <th>Wednesday</th>
+      <th>Thursday</th>
     </tr>
     <tr>
       <td>
-        <a href="">Project 01</a>
+        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
         <br><hr>
       </td>
       <td>
-        <a href="">Project 01</a>
+        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
         <br><hr>
       </td>
       <td>
-        <a href="">Project Presentations</a>
+        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
+        <br><hr>
+      </td>
+            <td>
+        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
         <br><hr>
       </td>
       <td>
-        <a href="">Project Presentations</a>
+        <a href="/Projects/Project-01-Banking-With-JAVA/">Project Presentations</a>
         <br><hr>
       </td>
     </tr>
