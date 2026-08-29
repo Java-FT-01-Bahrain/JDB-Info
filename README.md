@@ -59,9 +59,12 @@ ____
 
 <div align="center">
   <img src="https://i.imgur.com/dH5Pznf.png" alt="Zainab" width="200px" >
-  <h3>Zainab</h3>
-  <h4>Instructional Associate</h4>
-  <p> ...  </p>
+  <h3>Zainab Alzaimoor</h3>
+  <h4>Instructor Associate</h4>
+  <p> Hello! My name is Zainab Alzaimoor, and I’m excited to be joining you as an Instructor Associate for this Full-Time Java Developer Immersive.</p>
+  <p> I recently completed a part-time Java Development Bootcamp with General Assembly, and I have experience working with Java and the Spring Boot framework. </p>
+  <p> I really enjoy solving problems and figuring out how things work, and I’m excited to be here to share what I’ve learned and support you throughout the bootcamp. I’m always happy to help, whether you’re stuck on a problem or just need someone to work through it with you. I’m really looking forward to sharing this journey with you all and seeing where it takes you! </p>
+   <span><a href="https://bh.linkedin.com/in/zainab-al-zaimoor" target="_blank">LinkedIn</a></span>
 </div>
 </p></details></li>
 
