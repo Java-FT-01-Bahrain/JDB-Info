@@ -27,7 +27,7 @@ ____
 ____
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/9f1a0594d3d7b58d67a932ef6b6aed949270bd53069be2f6cca9ad00d36200cf/68747470733a2f2f63612e736c61636b2d656467652e636f6d2f5430334a424358385745372d5530343850534a3831465a2d6333666666363130303433652d353132" alt="Saad" width="200px" >
+  <img src="https://i.imgur.com/dH5Pznf.png" alt="Saad" width="200px" >
   <h3>Saad Iqbal</h3>
   <h4>Senior Instructor Lead</h4>
   <p>Hello! My name is Saad Iqbal, and I'll be serving as the Instructor Leads throughout this course. </p>
