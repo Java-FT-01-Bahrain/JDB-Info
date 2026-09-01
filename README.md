@@ -7,7 +7,7 @@
 ____
 <div align="center">
 
-Welcome to the <b>Java-PT-01-Bahrain Class Wiki</b>.
+Welcome to the <b>Java-FT-01-Bahrain Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos for each day.
 <!-- 
