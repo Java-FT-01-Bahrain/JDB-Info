@@ -263,6 +263,8 @@ ____
       <td>
        <a href="/Lessons/intro-to-oop/">Intro to Object-oriented programming (OOP)</a>
         <br><hr>
+        <a href="/Labs/OOPs/README.md">Objects and Classes - Lab</a>
+        <br><hr>
         <a href="/Lessons/objects-and-classes/">Objects and Classes</a>
         <br><hr>
         <a href="/Homeworks/creating-classes-lab-hw">Classes Homework</a>
