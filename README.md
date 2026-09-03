@@ -277,7 +277,7 @@ ____
       <td>
         <a href="/Lessons/subclasses/">Inheritance (Subclasses)</a>
         <br><hr>
-        <a href="/Lessons/subclasses/">Inheritance (Lab)</a>
+        <a href="/Labs/Inheritance-Lab/Java_Inheritance_Labs.md">Inheritance (Lab)</a>
         <br><hr>
         <a href="/Homeworks/shapes-lab/">Inheritance Homework (Deliverable)</a>
         <br><hr>
