@@ -302,28 +302,29 @@ ____
       <td>
       <a href="/Lessons/abstract-classes-and-interfaces">Abstract Classes And Interfaces</a>
         <br><hr>
-        <a href="/Labs/OOPs/">Hands-On Coding Labs</a>
+        <a href="/Labs/AbstractAndInterface-Lab/Readme.md">Abstract Classes And Interfaces Lab</a>
+        <br><hr>
+        <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams</a>
+        <br><hr>
+        <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams - Lab</a>
         <br><hr>
       <a href="/Homeworks/inheritance-and-abstraction-lab-hw/">Abstraction Homework (Deliverable)</a>
         <br><hr>
-        <a href="">Complete Pending Deliverables</a>
-        <br><hr>
       </td>
       <td>
-        <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams</a>
+        <a href="/Lessons/optionals/">Optionals</a>
         <br><hr>
-        <a href="/Lessons/lambdas-and-streams/">Lambdas and Streams</a>
-        <br><hr>
-        <a href="/Homeworks/lambdas-and-streams-lab-hw">Lambdas And Streams Homework (Deliverable)</a>
-        <br><hr>
-      </td>
-      <td>
-      <a href="/Lessons/optionals/">Optionals</a>
+        <a href="/Lessons/optionals/">Optionals Lab</a>
         <br><hr>
       <a href="/Lessons/java-tdd/">JUnit and Test Driven Development (TDD)</a>
         <br><hr>
+        <a href="/Homeworks/lambdas-and-streams-lab-hw">Lambdas And Streams Homework (Deliverable)</a>
+        <br><hr>
         <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
         <br><hr>
+      </td>
+      <td>
+      <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
       </td>
       <td>
         <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>

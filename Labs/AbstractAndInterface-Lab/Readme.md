@@ -1,4 +1,4 @@
-## 📱 Lab 4: Smartphone Interface & Implementations  
+## 📱 Lab: Smartphone Interface & Implementations  
 ⏱️ *Estimated Time: 40 minutes*
 
 In this lab, you will design and implement an interface-based system for smartphones, exploring **interfaces**, **method overriding**, and **class structure**.
