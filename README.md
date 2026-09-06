@@ -320,7 +320,7 @@ ____
         <br><hr>
         <a href="/Homeworks/lambdas-and-streams-lab-hw">Lambdas And Streams Homework (Deliverable)</a>
         <br><hr>
-        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01</a>
+        <a href="/Projects/Project-01-Banking-With-JAVA/">Project 01 Prompt</a>
         <br><hr>
       </td>
       <td>
