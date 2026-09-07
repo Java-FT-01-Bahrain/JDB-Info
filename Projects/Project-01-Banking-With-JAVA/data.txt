@@ -1,0 +1,6 @@
+10001,saad,iqbal,juagw362,1000,B
+10002,saad,khan,idh36%@#FGd,10000,B
+10003,melvin,gordon,uYWE732g4ga1,2000,C
+10004,stacey,abrams,DEU8_qw3y72$,2000,C
+10005,micheal,paul,d^dg23g)@,100000,C
+10006,dhrubo,chowdhury,&WQEgcg62d_2,2000,C
