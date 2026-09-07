@@ -2,7 +2,7 @@
 
 | Title                         | Type    | Duration | Author               |
 |-------------------------------|---------|----------|----------------------|
-| Project 1 : Banking with Java | Project | 8 Days   | Suresh Melvin Sigera |
+| Project 1 : Banking with Java | Project | 5-6 Days   | Suresh Melvin Sigera |
 
 Welcome to your first project - a Java command-line banking application! This is a great opportunity to get creative and
 tackle some challenging programming problems.
