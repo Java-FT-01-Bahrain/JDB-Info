@@ -219,7 +219,7 @@ Customer-<CustomerName>-<CustomerID>
 Your submission must include a link to your hosted solution on GitHub and frequent commits dating back to the beginning
 of the project. Please include any questions or specific feedback requests with your submission.
 
-- Fill out this [Google Sheet](https://docs.google.com/spreadsheets/d/1C58qQAwjK1AMqKWhuPh-JRS1BscVcWt99M95S-5RgHw/edit?gid=0#gid=0)
+- Fill out this [Google Sheet](https://docs.google.com/spreadsheets/d/1rJ2j18dy11KLDCFmvNZHMj1GMiWqbhn4pn7Ddpb3ML4/edit?gid=0#gid=0)
 
 ## Evaluation
 
