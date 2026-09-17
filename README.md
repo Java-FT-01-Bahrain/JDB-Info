@@ -381,6 +381,166 @@ ____
 ____
 
 
+<details><summary><strong>Unit 2</strong> - Spring Framework </summary><p>
+
+<ul type="none">
+
+
+  <!-- <p>  </p> -->
+
+
+  <li><details><summary><strong>Week 4</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Lessons/SQL/sql-intro-lesson/">SQL Intro Lesson</a>
+        <br><hr>
+        <a href="/Lessons/SQL/sql-relational-mapping-lesson/">SQL Relational Mapping Lesson (SQL Joins)</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/spring-overview/">Intro to Spring</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/spring-design-patterns/">Spring Design Patterns</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot</a>
+        <br><hr>
+        <a href="/Homeworks/sql-carmen-new/">SQL Carmen Homework  (Deliverable)</a>
+        <br><hr>
+        <a href="/Lessons/SQL/sql-joins-lab/">SQL Joins Lab (Additional Practice)</a>
+        <br>
+        <a href="/Lessons/SQL/sql-nfl/">SQL Nfl (Additional Practice)</a>
+        <br>
+        <a href="/Lessons/SQL/relational-database-modeling/">Relational Database Modelling Lab  (Additional Practice)</a>
+        <br>
+        <a href="/Lessons/SQL/sql-airplane-lab/">SQL Airplane Lab  (Additional Practice)</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/AcidTransactions/acid-transactions/">Acid Transactions</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot Profiles</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Building our First Endpoint</a>
+        <br><hr>
+        <a href="/Homeworks/java-spring-hw/">Java Spring Homework (Deliverable) </a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot - Food App (CRUD Operations)</a>
+        <br><hr>
+        Career Coaching 01.00 PM - 03.00 PM
+        <br><hr>
+        <a href="/Homeworks/java-spring-hw/">Java Spring Boot Homework (Deliverable)</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot - Food App (CRUD Operations)</a>
+        <br><hr>
+        <a href="/Homeworks/java-spring-hw/">Java Spring Boot Homework (Deliverable)</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot (One to Many)</a>
+        <br><hr>
+        <a href="/Homeworks/java-spring-hw/">Java Spring Boot Homework (Deliverable)</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+  </p></details></li>
+
+  ___
+
+
+  <li><details><summary><strong>Week 5</strong></summary><p>
+   <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot (One to One)</a>
+        <br><hr>
+        <a href="/Homeworks/java-spring-hw/">Java Spring Boot Homework (Deliverable)</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot (Spring Security - JWT)</a>
+        <br><hr>
+      </td>
+      <td>
+        <!-- <a href="/Lessons/Github_collaboration/">Git Teams</a> -->
+        <br><hr>
+        <a href="/Projects/Project-02/">Project 02</a>
+        <br><hr>
+        Career Coaching 01.00 PM - 03.00 PM
+      </td>
+        <td>
+        <a href="/Lessons/">Project 02</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/">Project 02</a>
+        <br><hr>
+      </td>
+      <td>
+    </tr>
+  </table>
+</p></details>
+
+____
+
+  <li><details><summary><strong>Week 06</strong></summary><p>
+      <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Lessons/">Project 02</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/">Project 02</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/">Project 02</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/">Project 02</a>
+        <br><hr>
+      </td>
+           <td>
+        <a href="/Lessons/">Project 02 Presentations</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+</p></details>
+
+</p></details></li>
+</ul></details>
+
+____
+
+
 
 <details><summary><strong>Resources</strong></summary><p>
 
