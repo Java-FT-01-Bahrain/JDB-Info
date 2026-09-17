@@ -410,14 +410,15 @@ ____
         <a href="/Lessons/JavaSpringBoot/spring-design-patterns/">Spring Design Patterns</a>
         <br><hr>
         <a href="/Lessons/SQL/sql-joins-lab/">SQL Joins Lab</a>
-        <br>
+        <br><hr>
         <a href="/Lessons/SQL/sql-nfl/">SQL Nfl Lab</a>
-        <br>
+        <br><hr>
         <a href="/Lessons/SQL/relational-database-modeling/">Relational Database Modelling Lab </a>
-        <br>
+        <br><hr>
         <a href="/Lessons/SQL/sql-airplane-lab/">SQL Airplane Lab  (Bonus)</a>
         <br><hr>
         <a href="/Homeworks/sql-carmen-new/">SQL Carmen Homework  (Deliverable)</a>
+        <br><hr>
       </td>
       <td>
         <a href="/Lessons/AcidTransactions/acid-transactions/">Acid Transactions</a>
