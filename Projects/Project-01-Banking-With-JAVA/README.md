@@ -212,7 +212,7 @@ Customer-<CustomerName>-<CustomerID>
 
 ## Submission
 
-- Projects are due on Tuesday 09th Dec 2025 at 06.00 PM.
+- Projects are due on Thursday 17th Sep 2026 at 09.00 AM.
 
 **DO NOT FORK THIS REPOSITORY!** Create a **new** repository on your personal GitHub account. 
 
