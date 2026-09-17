@@ -409,18 +409,15 @@ ____
         <br><hr>
         <a href="/Lessons/JavaSpringBoot/spring-design-patterns/">Spring Design Patterns</a>
         <br><hr>
-        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot</a>
+        <a href="/Lessons/SQL/sql-joins-lab/">SQL Joins Lab</a>
+        <br>
+        <a href="/Lessons/SQL/sql-nfl/">SQL Nfl Lab</a>
+        <br>
+        <a href="/Lessons/SQL/relational-database-modeling/">Relational Database Modelling Lab </a>
+        <br>
+        <a href="/Lessons/SQL/sql-airplane-lab/">SQL Airplane Lab  (Bonus)</a>
         <br><hr>
         <a href="/Homeworks/sql-carmen-new/">SQL Carmen Homework  (Deliverable)</a>
-        <br><hr>
-        <a href="/Lessons/SQL/sql-joins-lab/">SQL Joins Lab (Additional Practice)</a>
-        <br>
-        <a href="/Lessons/SQL/sql-nfl/">SQL Nfl (Additional Practice)</a>
-        <br>
-        <a href="/Lessons/SQL/relational-database-modeling/">Relational Database Modelling Lab  (Additional Practice)</a>
-        <br>
-        <a href="/Lessons/SQL/sql-airplane-lab/">SQL Airplane Lab  (Additional Practice)</a>
-        <br><hr>
       </td>
       <td>
         <a href="/Lessons/AcidTransactions/acid-transactions/">Acid Transactions</a>
