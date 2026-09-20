@@ -405,10 +405,6 @@ ____
         <br><hr>
         <a href="/Lessons/SQL/sql-relational-mapping-lesson/">SQL Relational Mapping Lesson (SQL Joins)</a>
         <br><hr>
-        <a href="/Lessons/JavaSpringBoot/spring-overview/">Intro to Spring</a>
-        <br><hr>
-        <a href="/Lessons/JavaSpringBoot/spring-design-patterns/">Spring Design Patterns</a>
-        <br><hr>
         <a href="/Lessons/SQL/sql-joins-lab/">SQL Joins Lab</a>
         <br><hr>
         <a href="/Lessons/SQL/sql-nfl/">SQL Nfl Lab</a>
@@ -422,6 +418,10 @@ ____
       </td>
       <td>
         <a href="/Lessons/AcidTransactions/acid-transactions/">Acid Transactions</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/spring-overview/">Intro to Spring</a>
+        <br><hr>
+        <a href="/Lessons/JavaSpringBoot/spring-design-patterns/">Spring Design Patterns</a>
         <br><hr>
         <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot Profiles</a>
         <br><hr>
