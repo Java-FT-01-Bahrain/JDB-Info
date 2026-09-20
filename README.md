@@ -427,7 +427,7 @@ ____
         <br><hr>
         <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Building our First Endpoint</a>
         <br><hr>
-        <a href="/Homeworks/java-spring-hw/">Java Spring Homework (Deliverable) </a>
+        <a href="/Homeworks/spring-intro-hw/">Java Spring Homework (Deliverable) </a>
         <br><hr>
       </td>
       <td>
