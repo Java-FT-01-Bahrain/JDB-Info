@@ -470,11 +470,14 @@ ____
       <td>
         <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot (One to One)</a>
         <br><hr>
+        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot (Spring Security - JWT)</a>
+        <br><hr>
         <a href="/Homeworks/java-spring-hw/">Java Spring Boot Homework (Deliverable)</a>
         <br><hr>
       </td>
       <td>
-        <a href="/Lessons/JavaSpringBoot/Java-Spring-Boot-lecture/">Java Spring Boot (Spring Security - JWT)</a>
+        <br><hr>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
       </td>
       <td>
@@ -485,11 +488,11 @@ ____
         Career Coaching 01.00 PM - 03.00 PM
       </td>
         <td>
-        <a href="/Lessons/">Project 02</a>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
       </td>
       <td>
-        <a href="/Lessons/">Project 02</a>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
       </td>
       <td>
@@ -510,24 +513,24 @@ ____
     </tr>
     <tr>
       <td>
-        <a href="/Lessons/">Project 02</a>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
       </td>
       <td>
-        <a href="/Lessons/">Project 02</a>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
       </td>
       <td>
-        <a href="/Lessons/">Project 02</a>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
         Career Coaching 01.00 PM - 03.00 PM
       </td>
       <td>
-        <a href="/Lessons/">Project 02</a>
+        <a href="/Projects/Project-02/">Project 02</a>
         <br><hr>
       </td>
            <td>
-        <a href="/Lessons/">Project 02 Presentations</a>
+        <a href="Projects/Project-02/">Project 02 Presentations</a>
         <br><hr>
       </td>
     </tr>
