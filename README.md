@@ -520,6 +520,7 @@ ____
       <td>
         <a href="/Lessons/">Project 02</a>
         <br><hr>
+        Career Coaching 01.00 PM - 03.00 PM
       </td>
       <td>
         <a href="/Lessons/">Project 02</a>
