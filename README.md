@@ -502,7 +502,7 @@ ____
 
 ____
 
-  <li><details><summary><strong>Week 06</strong></summary><p>
+  <li><details><summary><strong>Week 6</strong></summary><p>
       <table>
     <tr>
       <th>Sunday</th>
@@ -541,6 +541,166 @@ ____
 </ul></details>
 
 ____
+
+____
+
+
+<details><summary><strong>Unit 3</strong> - Data Structures, Algorithms, and Multithreading</summary><p>
+
+<ul type="none">
+
+
+  <!-- <p>  </p> -->
+
+
+  <li><details><summary><strong>Week 7</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+    <td>
+    Career Coaching 09.00 AM to 11 AM
+    <br> <br>
+    <a href="/Lessons/Unit03/stacks/">Stacks</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/queues/">Queues</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/data-structure-lab/">Data Structures Lab (Deliverable) </a>
+        <br><hr>
+        Additional Material to Read:
+        <br />
+        <a href="/Lessons/Unit03/linked-lists/">Linked Lists</a>
+        <br>
+        <a href="/Lessons/Unit03/doubly-linked-lists/">Doubly Linked Lists</a>
+        <!-- <br>
+        <a href="/Lessons/Unit03/linked-lists-lab/">Linked Lists Lab</a> -->
+        <br><hr>
+    </td>
+      <td>
+        <a href="/Lessons/Unit03/binary-search/">Binary Search</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/recursion/">Recursion</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/tree-algorithms/">Tree Algorithms</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/">Recursion Lab</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/Unit03/bubble-sort/">Bubble Sort</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/selection-sort/">Selection Sort</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/quicksort/">Quick Sort</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/merge-sort/">Merge Sort</a>
+        <br><hr>
+      </td>
+      <td>
+      <a href="/Lessons/Unit03/algorithms-mini-project/">Algorithms Mini Project</a>
+        <br><hr>
+      </td>
+       <td>
+      <a href="/Lessons/Unit03/algorithms-mini-project/">Algorithms Mini Project</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+
+  </p></details></li>
+
+  ___
+
+
+  <li><details><summary><strong>Week 8</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Lessons/Unit03/introduction-to-concurrency/">Introduction to Concurrency</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/understanding-race-conditions-and-synchronization/">Concurrency (Lab)</a>
+        <br><hr> Additional Material to Read:
+        <a href="/Lessons/Unit03/understanding-race-conditions-and-synchronization/">Race Conditions</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Lessons/Unit03/reentrantLock-readwritelock-and-semaphore/">Locks: ReentrantLock, ReadWriteLock, and Semaphore</a>
+        <br><hr>
+        <a href="/Lessons/Unit03/thread-status-and-pooling/">Thread Status and Pooling</a>
+        <br><hr>
+        Career Coaching
+      </td>
+      <td>
+        <a href="/Lessons/Unit03/mini-project-concurrency/">Concurrency Mini Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-03/">Project 3 </a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-03/">Project 3 </a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+
+  </p></details></li>
+
+
+  ___
+
+  <li><details><summary><strong>Week 9</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Projects/Project-03/">Work on Project</a>
+        <br><hr>
+      </td>
+     <td>
+        <a href="/Projects/Project-03/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-03/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-03/">Project Presentations</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+
+  </p></details></li>
+
+
+</p></details></li>
+</ul></details>
+
+____
+
 
 
 
