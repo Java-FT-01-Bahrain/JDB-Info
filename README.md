@@ -571,7 +571,7 @@ ____
         <br><hr>
         <a href="/Lessons/Unit03/queues/">Queues</a>
         <br><hr>
-        <a href="/Lessons/Unit03/data-structure-lab/">Data Structures (Deliverable) </a>
+        <a href="/Lessons/Unit03/data-structure-lab/">Data Structures HW(Deliverable) </a>
         <br><hr>
         Additional Material to Read:
         <br />
