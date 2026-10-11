@@ -566,7 +566,7 @@ ____
     <tr>
     <td>
     Career Coaching 09.00 AM to 11 AM
-    <br> <br>
+    <br><hr>
     <a href="/Lessons/Unit03/stacks/">Stacks</a>
         <br><hr>
         <a href="/Lessons/Unit03/queues/">Queues</a>
@@ -604,6 +604,8 @@ ____
       </td>
       <td>
       <a href="/Lessons/Unit03/algorithms-mini-project/">Algorithms Mini Project</a>
+        <br><hr>
+        Career Coaching 01.00 PM to 03.00 PM
         <br><hr>
       </td>
        <td>
