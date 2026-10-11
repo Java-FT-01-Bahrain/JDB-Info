@@ -601,11 +601,11 @@ ____
         <br><hr>
         <a href="/Lessons/Unit03/merge-sort/">Merge Sort</a>
         <br><hr>
+                Career Coaching 01.00 PM to 03.00 PM
+        <br><hr>
       </td>
       <td>
       <a href="/Lessons/Unit03/algorithms-mini-project/">Algorithms Mini Project</a>
-        <br><hr>
-        Career Coaching 01.00 PM to 03.00 PM
         <br><hr>
       </td>
        <td>
@@ -644,10 +644,11 @@ ____
         <br><hr>
         <a href="/Lessons/Unit03/thread-status-and-pooling/">Thread Status and Pooling</a>
         <br><hr>
-        Career Coaching
       </td>
       <td>
         <a href="/Lessons/Unit03/mini-project-concurrency/">Concurrency Mini Project</a>
+        <br><hr>
+        Career Coaching 01.00 PM to 03.00 PM
         <br><hr>
       </td>
       <td>
