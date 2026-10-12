@@ -590,7 +590,7 @@ ____
         <a href="/Lessons/Unit03/tree-algorithms/">Tree Algorithms</a>
         <br><hr>
         No Homework <br><br>
-        Prepare your presentation
+        Prepare Your Presentation
         <br><hr>
       </td>
       <td>
