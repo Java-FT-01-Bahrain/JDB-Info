@@ -589,6 +589,9 @@ ____
         <br><hr>
         <a href="/Lessons/Unit03/tree-algorithms/">Tree Algorithms</a>
         <br><hr>
+        No Homework <br><br>
+        Prepare your presentation
+        <br><hr>
       </td>
       <td>
         <a href="/Lessons/Unit03/bubble-sort/">Bubble Sort</a>
