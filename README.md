@@ -636,13 +636,13 @@ ____
         <a href="/Lessons/Unit03/introduction-to-concurrency/">Introduction to Concurrency</a>
         <br><hr>
         <a href="/Lessons/Unit03/introduction-to-concurrency/">Concurrency (Lab)</a>
-        <br><hr> Additional Material to Read:
+        <br><hr> Material to Read:
         <a href="/Lessons/Unit03/understanding-race-conditions-and-synchronization/">Race Conditions</a>
         <br><hr> 
       </td>
       <td>
         <a href="/Lessons/Unit03/reentrantLock-readwritelock-and-semaphore/">Locks: ReentrantLock, ReadWriteLock, and Semaphore</a>
-        <br><hr>
+        <br><hr> Material to Read:
         <a href="/Lessons/Unit03/thread-status-and-pooling/">Thread Status and Pooling</a>
         <br><hr>
       </td>
