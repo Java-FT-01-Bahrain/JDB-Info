@@ -635,10 +635,10 @@ ____
       <td>
         <a href="/Lessons/Unit03/introduction-to-concurrency/">Introduction to Concurrency</a>
         <br><hr>
-        <a href="/Lessons/Unit03/understanding-race-conditions-and-synchronization/">Concurrency (Lab)</a>
+        <a href="/Lessons/Unit03/introduction-to-concurrency/">Concurrency (Lab)</a>
         <br><hr> Additional Material to Read:
         <a href="/Lessons/Unit03/understanding-race-conditions-and-synchronization/">Race Conditions</a>
-        <br><hr>
+        <br><hr> 
       </td>
       <td>
         <a href="/Lessons/Unit03/reentrantLock-readwritelock-and-semaphore/">Locks: ReentrantLock, ReadWriteLock, and Semaphore</a>
