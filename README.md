@@ -676,6 +676,7 @@ ____
       <th>Monday</th>
       <th>Tuesday</th>
       <th>Wednesday</th>
+      <th>Thursday</th>
     </tr>
     <tr>
       <td>
@@ -683,6 +684,10 @@ ____
         <br><hr>
       </td>
      <td>
+        <a href="/Projects/Project-03/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
         <a href="/Projects/Project-03/">Work on Project</a>
         <br><hr>
       </td>
