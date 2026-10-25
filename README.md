@@ -711,6 +711,168 @@ ____
 ____
 
 
+<details><summary><strong>Unit 4</strong> - DevOps & Cloud Infrastructure</summary><p>
+
+<ul type="none">
+
+
+  <!-- <p>  </p> -->
+
+
+  <li><details><summary><strong>Week 10</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Lessons/Unit04/introduction-to-docker/">Intro to Docker</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/running-spring-boot-application-and-postgresql-database-using-docker-compose/">Building Docker Apps</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/running-spring-boot-application-and-postgresql-database-using-docker-compose/">Docker Lab </a>
+        <br><hr>
+        <a href="/Lessons/Unit04/docker-ladder-challenge/">Docker Ladder </a>
+        <br><hr>
+        Reading Materials
+        <br><hr>
+        <a href="/Lessons/Unit04/twelve-factor-design-lesson/">Twelve-Factor Application Design</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/intro-cloud-infrastructure-lesson/">Intro to Cloud Infrastructure</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/paas-intro-lesson/">Intro to Platform-as-a-Service (PaaS)</a>
+        <br><hr>
+      </td>
+      <td>
+      MongoDB Installation and Group Git and
+      Full Day Chanllege Lab (Indiviual)
+      </td>
+      <td>
+        <a href="/Lessons/Unit04/intro-aws-lesson/">Intro AWS</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/deploying-a-springboot-restapi-application-on-aws-elastic-beanstalk/">Deploy Application on Elastic Beanstalk</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/deploying-a-springboot-restapi-application-on-aws-elastic-beanstalk/">Deploy Application on Elastic Beanstalk - Lab</a>
+        <br><hr>
+      </td>
+       <td>
+        <a href="/Lessons/Unit04/jenkins-lab/">Continuous Integration and Delivery - Jenkins</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/ansible/">Ansible Configuration Management with AWS EC2 Instances</a>
+        <br><hr>
+         <br><hr>
+        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber</a>
+        </td>
+        <td>
+        <a href="/Lessons/Unit04/">Introduction to Kafka</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/">Integrating Kafka with Spring Boot</a>
+         <br><hr>
+        Reading Materials
+        <br><hr>
+        <a href="/Lessons/Unit04/understanding-monolithic-architecture/">Monolithic Architecture</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/monoliths-to-microservices/">MicroServices</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+
+  </p></details></li>
+
+  ___
+
+
+  <li><details><summary><strong>Week 11</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Lessons/Unit04/">Apache Ignite with Spring Boot</a>
+        <br><hr>
+        <a href="/Projects/Project-04/">Project 4 </a>
+        <br><hr>
+      </td>
+     <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+
+
+  </p></details></li>  
+
+  ___
+
+
+  <li><details><summary><strong>Week 12</strong></summary><p>
+
+  <table>
+    <tr>
+      <th>Sunday</th>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Wednesday</th>
+      <th>Thursday</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+     <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-04/">Work on Project</a>
+        <br><hr>
+      </td>
+      <td>
+        <a href="/Projects/Project-04/">Project Presentations</a>
+        <br><hr>
+      </td>
+    </tr>
+  </table>
+
+  </p></details></li>
+
+</p></details></li>
+</ul></details>
+
+____
+
+
+
 
 
 <details><summary><strong>Resources</strong></summary><p>
