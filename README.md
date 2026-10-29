@@ -753,11 +753,11 @@ ____
       Full Day Chanllege Lab (Indiviual) -->
       </td>
               <td>
-        <a href="/Lessons/Unit04/">Introduction to Kafka</a>
+        <a href="/Lessons/Unit04/Introduction-to-Kafka/">Introduction to Kafka</a>
         <br><hr>
-        <a href="/Lessons/Unit04/">Integrating Kafka with Spring Boot</a>
+        <a href="/Lessons/Unit04/springboot-kafka/">Integrating Kafka with Spring Boot</a>
         <br><hr>
-        <a href="/Lessons/Unit04/">Integrating Kafka with Spring Boot Lab</a>
+        <a href="/Lessons/Unit04/building-a-kafka-enabled-spring-boot-application-lab/">Integrating Kafka with Spring Boot Lab</a>
         <br><hr>
         <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber</a>
          <br><hr>
