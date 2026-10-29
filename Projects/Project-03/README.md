@@ -896,8 +896,8 @@ For Project 3, focus particularly on documentation and learning resources relate
 - [Thread-Safe Collections](https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/util/concurrent/package-summary.html#ConcurrentCollections)
 - [Spring Transactions](https://docs.spring.io/spring-framework/reference/data-access/transaction.html)
 - [Database Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
-- [Optimistic Locking](https://jakarta.ee/specifications/persistence/3.2/apidocs/jakarta.persistence/jakarta/persistence/version)
-- [Pessimistic Locking](https://jakarta.ee/specifications/persistence/3.2/apidocs/jakarta.persistence/jakarta/persistence/lockmodetype)
+- [Optimistic Locking](https://docs.oracle.com/middleware/1212/toplink/TLJPA/a_optimisticlocking.htm#TLJPA485)
+- [Pessimistic Locking](https://docs.jmix.io/2.x/jmix/2.1/features/pessimistic-lock.html)
 - [Concurrent Testing](https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/util/concurrent/package-summary.html)
 - [Spring Boot Asynchronous Processing](https://docs.spring.io/spring-framework/reference/integration/scheduling.html)
 
