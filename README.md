@@ -749,8 +749,19 @@ ____
         <br><hr>
       </td>
       <td>
-      MongoDB Installation and Group Git and
-      Full Day Chanllege Lab (Indiviual)
+      <!-- MongoDB Installation and Group Git and
+      Full Day Chanllege Lab (Indiviual) -->
+      </td>
+              <td>
+        <a href="/Lessons/Unit04/">Introduction to Kafka</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/">Integrating Kafka with Spring Boot</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/">Integrating Kafka with Spring Boot Lab</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber</a>
+         <br><hr>
+        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber Lab</a>
       </td>
       <td>
         <a href="/Lessons/Unit04/intro-aws-lesson/">Intro AWS</a>
@@ -765,21 +776,13 @@ ____
         <br><hr>
         <a href="/Lessons/Unit04/ansible/">Ansible Configuration Management with AWS EC2 Instances</a>
         <br><hr>
-         <br><hr>
-        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber</a>
-        </td>
-        <td>
-        <a href="/Lessons/Unit04/">Introduction to Kafka</a>
-        <br><hr>
-        <a href="/Lessons/Unit04/">Integrating Kafka with Spring Boot</a>
-         <br><hr>
         Reading Materials
         <br><hr>
         <a href="/Lessons/Unit04/understanding-monolithic-architecture/">Monolithic Architecture</a>
         <br><hr>
         <a href="/Lessons/Unit04/monoliths-to-microservices/">MicroServices</a>
         <br><hr>
-      </td>
+        </td>
     </tr>
   </table>
 

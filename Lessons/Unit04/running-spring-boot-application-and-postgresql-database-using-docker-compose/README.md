@@ -221,4 +221,4 @@ The Docker Compose Spring Boot with PostgreSQL with practical usage. Hope you go
 
 ## Lab: You do 
 
-- Dockerized your Unit 03 or Unit 02 Project.
+- Dockerized your Mini Concurrency project.
