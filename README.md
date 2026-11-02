@@ -751,6 +751,14 @@ ____
       <td>
       <!-- MongoDB Installation and Group Git and
       Full Day Chanllege Lab (Indiviual) -->
+              Reading Materials
+        <br><hr>
+        <a href="/Lessons/Unit04/understanding-monolithic-architecture/">Monolithic Architecture</a>
+        <br><hr>
+        <a href="/Lessons/Unit04/monoliths-to-microservices/">MicroServices</a>
+        <br><hr>
+        <a href="/Projects/Challenge/">One-Day Spring Boot Microservices Project Challenge</a>
+        <br><hr>
       </td>
               <td>
         <a href="/Lessons/Unit04/Introduction-to-Kafka/">Introduction to Kafka</a>
@@ -775,12 +783,6 @@ ____
         <a href="/Lessons/Unit04/jenkins-lab/">Continuous Integration and Delivery - Jenkins</a>
         <br><hr>
         <a href="/Lessons/Unit04/ansible/">Ansible Configuration Management with AWS EC2 Instances</a>
-        <br><hr>
-        Reading Materials
-        <br><hr>
-        <a href="/Lessons/Unit04/understanding-monolithic-architecture/">Monolithic Architecture</a>
-        <br><hr>
-        <a href="/Lessons/Unit04/monoliths-to-microservices/">MicroServices</a>
         <br><hr>
         </td>
     </tr>
