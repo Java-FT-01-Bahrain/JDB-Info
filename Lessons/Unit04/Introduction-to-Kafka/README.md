@@ -55,11 +55,11 @@ In this model, there are two main components: **publishers** (producers) and **s
 The publish-subscribe model in Kafka decouples producers and consumers, allowing them to operate independently. This
 means:
 
-- Introduction to Kafka: Producers can publish messages without waiting for consumers to be ready, and consumers
+- Producers can publish messages without waiting for consumers to be ready, and consumers
   can consume messages at their own pace.
-- Introduction to Kafka: Multiple producers can publish to the same topic, and multiple consumers can subscribe to the
+-  Multiple producers can publish to the same topic, and multiple consumers can subscribe to the
   same topic, facilitating horizontal scaling.
-- Introduction to Kafka: Producers and consumers are loosely coupled, as they do not need to know the details of each
+-  Producers and consumers are loosely coupled, as they do not need to know the details of each
   other, promoting flexibility and modularity.
 - **Fault Tolerance**: Messages are persisted in Kafka until they are consumed, ensuring no data loss even if a consumer
   is temporarily unavailable.
