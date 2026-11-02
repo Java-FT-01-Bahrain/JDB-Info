@@ -1,4 +1,5 @@
-# One-Day Spring Boot Microservices Project Challenge
+# Full-Stack Hackathon
+## One-Day Spring Boot Microservices Project Challenge
 
 ## 1. Team Setup
 

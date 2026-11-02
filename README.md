@@ -739,7 +739,7 @@ ____
         <br><hr>
         <a href="/Lessons/Unit04/docker-ladder-challenge/">Docker Ladder </a>
         <br><hr>
-        Reading Materials
+        Reading Materials:
         <br><hr>
         <a href="/Lessons/Unit04/twelve-factor-design-lesson/">Twelve-Factor Application Design</a>
         <br><hr>
@@ -754,8 +754,8 @@ ____
               Reading Materials
         <br><hr>
         <a href="/Lessons/Unit04/understanding-monolithic-architecture/">Monolithic Architecture</a>
-        <br><hr>
-        <a href="/Lessons/Unit04/monoliths-to-microservices/">MicroServices</a>
+        <hr><center> vs </center><hr>
+        <a href="/Lessons/Unit04/monoliths-to-microservices/">MicroServices Architecture</a>
         <br><hr>
         <a href="/Projects/Challenge/">One-Day Spring Boot Microservices Project Challenge</a>
         <br><hr>
