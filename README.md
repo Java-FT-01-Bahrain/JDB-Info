@@ -767,8 +767,10 @@ ____
         <br><hr>
         <a href="/Lessons/Unit04/building-a-kafka-enabled-spring-boot-application-lab/">Integrating Kafka with Spring Boot Lab</a>
         <br><hr>
-        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber</a>
+        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber Part One</a>
          <br><hr>
+        <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber Part Two</a>
+        <br><hr>
         <a href="/Lessons/Unit04/java-testing-rest-api-with-rest-assured-and-cucumber/">Java Testing with Cucumber Lab</a>
       </td>
       <td>
