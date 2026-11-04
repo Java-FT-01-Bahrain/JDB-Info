@@ -782,7 +782,7 @@ ____
        <td>
         <a href="/Lessons/Unit04/jenkins-lab/">Continuous Integration and Delivery - Jenkins</a>
         <br><hr>
-        <a href="/Lessons/Unit04/ansible/">Ansible Configuration Management with AWS EC2 Instances</a>
+        <a href="/Projects/Project-04/">Project 4 </a>
         <br><hr>
         </td>
     </tr>
@@ -805,7 +805,9 @@ ____
     </tr>
     <tr>
       <td>
-        <a href="/Lessons/Unit04/">Apache Ignite with Spring Boot</a>
+        Additional Materials
+        <br><hr>
+        <a href="/Lessons/Unit04/ansible/">Ansible Configuration Management with AWS EC2 Instances</a>
         <br><hr>
         <a href="/Projects/Project-04/">Project 4 </a>
         <br><hr>
