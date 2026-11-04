@@ -234,38 +234,29 @@ file in any location, but make sure you have the necessary permissions to access
 code into your Docker Compose file:
 
 ```docker
-version: "3"
-
 networks:
   mynetwork:
 
 services:
-  zookeeper:
-    image: 'bitnami/zookeeper:latest'
-    ports:
-      - '2181:2181'
-    environment:
-      - ALLOW_ANONYMOUS_LOGIN=yes
-    networks:
-      - mynetwork
-
   kafka:
-    image: 'bitnami/kafka:latest'
-    user: root
+    image: apache/kafka:3.9.1
+    container_name: kafka
     ports:
       - '9092:9092'
     environment:
-      - KAFKA_BROKER_ID=1
-      - KAFKA_LISTENERS=PLAINTEXT://:9092
-      - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://127.0.0.1:9092
-      - KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181
-      - ALLOW_PLAINTEXT_LISTENER=yes
-    volumes:
-      - ./Kafka:/bitnami/kafka
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_LISTENERS: PLAINTEXT://:9092,CONTROLLER://:9093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://127.0.0.1:9092
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
     networks:
       - mynetwork
-    depends_on:
-      - zookeeper
 ```
 
 This Docker Compose file configures two services: Zookeeper and Kafka, which operate on the same network to facilitate
@@ -323,13 +314,13 @@ Execute the following command in your first terminal. Before you start sending m
 command in a different terminal to keep track of the events.
 
 ```text
-sudo docker exec -it <your_container_id> kafka-console-producer.sh --bootstrap-server localhost:9092 --topic test-tp
+docker exec -it <your_container_id> /opt/kafka/bin/kafka-console-producer.sh --bootstrap-server localhost:9092 --topic test-tp
 ```
 
 In your second terminal run this command:
 
 ```text
-sudo docker exec -it <your_container_id> kafka-console-consumer.sh --from-beginning --bootstrap-server localhost:9092 --topic test-tp
+docker exec -it <your_container_id> /opt/kafka/bin/kafka-console-consumer.sh --from-beginning --bootstrap-server localhost:9092 --topic test-tp
 ```
 
 Now, feel free to type any messages you like in the first terminal and observe the results in the second terminal. To
@@ -340,25 +331,25 @@ Congratulations! You've successfully set up Apache Kafka and Apache Zookeeper us
 ### Kafka Commands with Docker (10 minutes)
 
 - Start a Kafka container :
-    - `sudo docker run -d --name kafka -p 9092:9092 -e KAFKA_ADVERTISED_HOST_NAME=localhost -e KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181 confluentinc/cp-kafka`
+    - `docker run -d --name kafka -p 9092:9092 -e KAFKA_ADVERTISED_HOST_NAME=localhost -e KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181 confluentinc/cp-kafka`
 - Create a Kafka topic :
-    - `sudo docker exec -it <your_container_id> kafka-topics.sh --create --topic <your-topic-name> --partitions 1 --replication-factor 1 --if-not-exists --bootstrap-server localhost:9092`
+    - `docker exec -it <your_container_id> kafka-topics.sh --create --topic <your-topic-name> --partitions 1 --replication-factor 1 --if-not-exists --bootstrap-server localhost:9092`
 - List Kafka topics :
-    - `sudo docker exec -it <your_container_id> kafka-topics.sh --list --bootstrap-server localhost:9092`
+    - `docker exec -it <your_container_id> kafka-topics.sh --list --bootstrap-server localhost:9092`
 - Describe a Kafka topic :
-    - `sudo docker exec -it <your_container_id> kafka-topics.sh --describe --topic <your-topic-name> --bootstrap-server localhost:9092`
+    - `docker exec -it <your_container_id> kafka-topics.sh --describe --topic <your-topic-name> --bootstrap-server localhost:9092`
 - Produce messages to a Kafka topic :
-    - `sudo docker exec -it <your_container_id> kafka-console-producer.sh --bootstrap-server localhost:9092 --topic <your-topic-name>`
+    - `docker exec -it <your_container_id> kafka-console-producer.sh --bootstrap-server localhost:9092 --topic <your-topic-name>`
 - Consume messages from a Kafka topic :
-    - `sudo docker exec -it <your_container_id> kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic <your-topic-name> --from-beginning`
+    - `docker exec -it <your_container_id> kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic <your-topic-name> --from-beginning`
 - Alter the configuration of a Kafka topic
-    - `sudo docker exec -it <your_container_id> kafka-configs.sh --alter --entity-type topics --entity-name <your-topic-name> --add-config retention.ms=86400000 --bootstrap-server localhost:9092`
+    - `docker exec -it <your_container_id> kafka-configs.sh --alter --entity-type topics --entity-name <your-topic-name> --add-config retention.ms=86400000 --bootstrap-server localhost:9092`
 - Delete a Kafka topic
-    - `sudo docker exec -it <your_container_id> kafka-topics.sh --delete --topic <your-topic-name> --bootstrap-server localhost:9092`
+    - `docker exec -it <your_container_id> kafka-topics.sh --delete --topic <your-topic-name> --bootstrap-server localhost:9092`
 - Get consumer groups
-    - `sudo docker exec -it <your_container_id> kafka-consumer-groups.sh --list --bootstrap-server localhost:9092`
+    - `docker exec -it <your_container_id> kafka-consumer-groups.sh --list --bootstrap-server localhost:9092`
 - Describe a consumer group
-    - `sudo docker exec -it kafka kafka-consumer-groups.sh --describe --group <your-group-name> --bootstrap-server localhost:9092`
+    - `docker exec -it kafka kafka-consumer-groups.sh --describe --group <your-group-name> --bootstrap-server localhost:9092`
 
 ### Summary (5 minutes)
 
