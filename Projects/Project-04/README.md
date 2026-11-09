@@ -171,7 +171,7 @@ Avoid creating a distributed system where every service directly accesses every 
 Document:
 
 * Which service owns which data.
-* Which database or schema it uses.
+* Which schema it uses.
 * How other services obtain information they need.
 
 ---
